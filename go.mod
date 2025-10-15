@@ -1,4 +1,4 @@
-module github.com/DewanJKW/volctl
+module github.com/Dewan-JKW/volctl
 
 go 1.25.2
 
